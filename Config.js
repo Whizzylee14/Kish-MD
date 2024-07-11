@@ -2,16 +2,16 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['254745936840']
-global.ownername = "KISH"//owner name
+global.ownernumber = ['2347061062548']
+global.ownername = "WHIZZY"//owner name
 global.ytname = "YT: KishBotz.inc"
 global.socialm = "GitHub: Kish-MD"
-global.location = "Kenya"
+global.location = "NIGERIA"
 
-global.botname = 'KISH-MD' //name of the bot
+global.botname = 'WHIZZY-MD' //name of the bot
 
 //sticker details
-global.stickername = 'KISH-MD'
+global.stickername = 'WHIZZY-MD'
 global.packname = 'Sticker By'
 global.author = 'Kish Bot'
 //console view/theme
@@ -27,7 +27,7 @@ global.prefa = ['.']
 //false=disable and true=enable
 global.welcome = false //auto welcome
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
+global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
