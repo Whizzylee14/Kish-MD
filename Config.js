@@ -13,7 +13,7 @@ global.botname = 'WHIZZY-MD' //name of the bot
 //sticker details
 global.stickername = 'WHIZZY-MD'
 global.packname = 'Sticker By'
-global.author = 'Kish Bot'
+global.author = 'Whizzy Bot'
 //console view/theme
 global.themeemoji = '𓅃'
 global.wm = "Kish botz inc."
